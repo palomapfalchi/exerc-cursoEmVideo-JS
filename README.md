@@ -25,3 +25,6 @@ Aula 12:
 - Ex011: função usando if else.
 - Ex012: captura da hora exata.
 - Ex013: Switch para capturar o dia de hoje.
+
+Desafios: 
+- horaAtual: 
