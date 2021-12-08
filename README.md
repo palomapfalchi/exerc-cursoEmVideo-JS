@@ -14,3 +14,9 @@ Aula 09:
 Aula 10:
 - Ex006: Eventos (addEventListener), funções clicar, sair e entrar.
 - Ex007: soma de dois input number, getElemnt, querySelector, transformar o valor do input (string) para number.
+
+Aula 11: 
+- Ex008: criação de função com template string e if.
+- Ex009: criação de função com template string e if.
+- Ex010: Reprodução do exercício 8 utilizando arquivo html.
+- Desafio-aula009: Reprodução do exercício 9 utilizando arquivo html.

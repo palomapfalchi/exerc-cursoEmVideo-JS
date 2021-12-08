@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nacionalidade</title>
+    <style>
+        body {
+            font: 20px normal Arial;
+            background-color: rgb(127, 127, 209);
+            color: white;
+        }
+        #nacionalidade {
+            width: 250px;
+        }
+        
+        #botao {
+            font-size: 16px;
+        }
+        
+    </style>
+
+</head>
+<body>
+    Digite o país que você nasceu: 
+    <br><input type="nacionalidade" id="nacionalidade">
+    <input type="button" value="Enviar" id="botao" onclick="pesquisar()">
+    <div id="res">
+
+    </div>
+
+    <script>
+        function pesquisar() {
+        var pais = window.document.querySelector("#nacionalidade");
+        var res = window.document.getElementById("res");
+        res.innerHTML = `<p>Você nasceu no <strong> ${pais.value}! </strong></p>`;
+
+            if (pais.value == "Brasil") {
+                res.innerHTML += `Você é Brasileiro!`
+            } else {
+                res.innerHTML += `Você é Estrangeiro!`
+            }
+        }
+    </script>
+</body>
+</html>
