@@ -10,3 +10,5 @@ Aula 06:
 
 Aula 09: 
 - Ex005: DOM, document.getElementsby(ID, TAGNAME..), document.querySelector("div#msg").
+- Ex006: Eventos (addEventListener), funções clicar, sair e entrar.
+- Ex007: soma de dois input number, getElemnt, querySelector, transformar o valor do input (string) para number.
