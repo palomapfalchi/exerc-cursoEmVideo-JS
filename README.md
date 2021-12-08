@@ -18,5 +18,10 @@ Aula 10:
 Aula 11: 
 - Ex008: criação de função com template string e if.
 - Ex009: criação de função com template string e if.
-- Ex010: Reprodução do exercício 8 utilizando arquivo html.
 - Desafio-aula009: Reprodução do exercício 9 utilizando arquivo html.
+- Ex010: Reprodução do exercício 8 utilizando arquivo html.
+
+Aula 12: 
+- Ex011: função usando if else.
+- Ex012: captura da hora exata.
+- Ex013: Switch para capturar o dia de hoje.
