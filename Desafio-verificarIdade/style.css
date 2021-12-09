@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(154, 154, 182);
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    font-size: 20px;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#msg {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
