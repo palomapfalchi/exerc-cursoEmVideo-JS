@@ -4,22 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="index.js"></script>
     <link rel="stylesheet" href="style.css">
     <title>Hora do Dia</title>
 </head>
-<body>
-    <h1>Hora do Dia</h1>
-    <div id="corpo">
-        <p>Agora são </p>
-        <div id="imagem">
-
+<body onload="carregar()">
+    <header>
+        <h1>Hora do Dia</h1>
+    </header>
+    <section>
+        <div id="ola">
+            <p>Olá!</p>
         </div>
-    </div>
+        <div id="msg">
+            <p>Agora são... </p>
+        </div>
+        <div id="foto">
+            <img id="imagem" src="/Desafio-horaAtual/imagens/manha.png" alt="foto do dia" >
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Desenvolvido por Paloma Falchi</p>
+    </footer>
+    <script src="index.js"></script>
 </body>
-<footer>
-    <div id="rodape">
-        <p>@Copywrite</p>
-    </div>
-</footer>
 </html>
