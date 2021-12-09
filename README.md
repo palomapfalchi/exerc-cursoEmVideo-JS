@@ -27,4 +27,4 @@ Aula 12:
 - Ex013: Switch para capturar o dia de hoje.
 
 Desafios: 
-- horaAtual: 
+- horaAtual: fazer um site que mostra a hora atual e mostra uma imagem e cor do fundo de acordo com o período do dia.
