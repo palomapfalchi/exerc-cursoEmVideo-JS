@@ -28,3 +28,5 @@ Aula 12:
 
 Desafios: 
 - horaAtual: fazer um site que mostra a hora atual e mostra uma imagem e cor do fundo de acordo com o período do dia.
+
+- VerificarIdade: fazer um site que mostra a imagem e idade da pessoa de acordo com o ano de nascimento.
